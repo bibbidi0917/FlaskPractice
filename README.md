@@ -9,10 +9,10 @@ microblog 폴더 하위에 'secret.json' 파일을 생성하고, 아래와 같�
 }
 ```
 
-## ERROR SENDING EMAIL
+## EMAIL
 microblog 폴더 하위에 'email.json' 파일을 생성하고, 아래와 같이 설정하세요.
 ```json
 {
-  "ERROR_REPORT_EMAIL": "your-own-email"
+  "EMAIL": "your-own-email1,your-own-email2"
 }
 ```
