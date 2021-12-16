@@ -1,8 +1,8 @@
 # FlaskPractice
-python Flask Practice
+- tutorial 출처 : https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 ## 환경 변수 설정
-microblog 폴더 하위에 '.env' 파일을 생성하고, 아래와 같이 설정하세요.
+- microblog 폴더 하위에 '.env' 파일을 생성하고, 아래와 같이 설정하세요.
 
 ```
 SECRET_KEY=<your-secret-key>
